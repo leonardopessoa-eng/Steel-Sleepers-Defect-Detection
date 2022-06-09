@@ -1,5 +1,6 @@
-# Python-preprocessing-techniques
+# Steel-Sleepers-Defect-Detection
 
-# Geometric signals of a real railway for defect detection in steel sleeprs.
+Geometric signals of a real railway were used for defect detection in steel sleeprs.
 
-Some preprocessing techniques used in the project
+Files:
+- Feature_Extraction: Represents some preprocessing techniques used in the project
